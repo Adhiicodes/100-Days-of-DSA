@@ -7,7 +7,7 @@ Input:
 Output:
 - Print polynomial in standard form, e.g., 10x^4 + 20x^3 + 30x^2 + 40x + 50
 
-Example:
+Example: 
 Input:
 5
 10 4
