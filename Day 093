@@ -4,7 +4,7 @@ Stable sort. Good for nearly sorted arrays.*/
 #include <stdio.h>
 
 int main() {
-    int n;
+    int n; 
     scanf("%d", &n);
 
     int arr[n];
